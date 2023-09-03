@@ -1,6 +1,8 @@
 # Godot 4+ specific ignores
 .godot/
-
+project.godot
+icon.svg
+icon.svg.import
 # Godot-specific ignores
 .import/
 export.cfg
